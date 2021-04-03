@@ -13,5 +13,7 @@ Use:
 cd /path_to_file OR cd /d /path_to_file       
 python GPS_To_Coordinates.py Latitude values in D,M,S Longitude values in D,M,S       
 ( EXAMPLE: python GPS_To_Coordinates.py 10,13,23 10,23,43 )       
-          
+         
+-------------------------------------------------     
+         
 | More soon |       
