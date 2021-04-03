@@ -1,4 +1,3 @@
-# Metadata-Remover
-A simple Metadata Removal Tool.
+# Metadata-Tools
 
 | soon | 
