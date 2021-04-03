@@ -1,6 +1,6 @@
 # Metadata-Tools
 
-###File1: Extract_Metadata_From_Images.py                    
+File 1: **Extract_Metadata_From_Images.py**                    
 Use:                                      
 cd /path_to_file OR cd /d /path_to_file                       
 python Extract_Metadata_From_Images.py yourImage.jpg            
@@ -8,7 +8,7 @@ python Extract_Metadata_From_Images.py yourImage.jpg
       
 -------------------------------------------------     
       
-###File2: GPS_To_Coordinates.py      
+File 2: **GPS_To_Coordinates.py**      
 Use:          
 cd /path_to_file OR cd /d /path_to_file       
 python GPS_To_Coordinates.py Latitude values in D,M,S Longitude values in D,M,S       
@@ -16,4 +16,4 @@ python GPS_To_Coordinates.py Latitude values in D,M,S Longitude values in D,M,S
          
 -------------------------------------------------     
          
-| More soon |       
+| **More soon** |       
